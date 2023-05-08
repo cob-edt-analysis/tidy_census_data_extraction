@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/cob-edt-analysis/tidy_census_data_extraction">
     <img src="outputs/images/boulder-logo.png" alt="Logo" width="160" height="160">
   </a>
 
@@ -28,14 +28,14 @@
   <p align="center">
     R script to extract data about the City of Boulder from the Census Bureau APIs using the tidycensus package.
     <br />
-    <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/cob-edt-analysis/tidy_census_data_extraction"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <!-- <a href="https://github.com/github_username/repo_name">View Demo</a> -->
+    <!-- <a href="https://github.com/cob-edt-analysis/tidy_census_data_extraction">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/cob-edt-analysis/tidy_census_data_extraction/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/cob-edt-analysis/tidy_census_data_extraction/issues">Request Feature</a>
   </p>
 </div>
 
@@ -73,7 +73,7 @@
 ## About The Project
 
 This repository contains a script to briefly introduce some of the core functionality of the tidycensus R package and enable users to easily extract variables from the American Community Survey for tracts or block groups for the City of Boulder.
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `email_client`, `email`, `project_title`, `project_description` -->
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `cob-edt-analysis`, `tidy_census_data_extraction`, `email_client`, `email`, `America Community Survey Data Extraction`, `project_description` -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,7 +98,7 @@ In order to use tidycensus with the Census Bureau's APIs, you will first need to
 <!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/cob-edt-analysis/tidy_census_data_extraction.git
    ```
 3. Install packages
    ```sh
@@ -138,7 +138,7 @@ The documentation (current as of May 8, 2023) for tidycensus is included in the 
 - [ ] Feature 3
     - [ ] Nested Feature -->
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/cob-edt-analysis/tidy_census_data_extraction/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -173,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Stew LaPan  - lapans@cityofboulder.gov
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/cob-edt-analysis/tidy_census_data_extraction](https://github.com/cob-edt-analysis/tidy_census_data_extraction)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -192,13 +192,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge -->
-<!-- [stars-url]: https://github.com/github_username/repo_name/stargazers -->
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/cob-edt-analysis/tidy_census_data_extraction.svg?style=for-the-badge
+[contributors-url]: https://github.com/cob-edt-analysis/tidy_census_data_extraction/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cob-edt-analysis/tidy_census_data_extraction.svg?style=for-the-badge
+[forks-url]: https://github.com/cob-edt-analysis/tidy_census_data_extraction/network/members
+[stars-shield]: https://img.shields.io/github/stars/cob-edt-analysis/tidy_census_data_extraction.svg?style=for-the-badge -->
+<!-- [stars-url]: https://github.com/cob-edt-analysis/tidy_census_data_extraction/stargazers -->
+[issues-shield]: https://img.shields.io/github/issues/cob-edt-analysis/tidy_census_data_extraction.svg?style=for-the-badge
+[issues-url]: https://github.com/cob-edt-analysis/tidy_census_data_extraction/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/cob-edt-analysis/tidy_census_data_extraction/blob/master/LICENSE.txt
